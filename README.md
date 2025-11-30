@@ -7,23 +7,23 @@ Users can join a room and chat together in real time.
 
 - Real-time messaging (Socket.io)
 - Join chat room
-
-
-Lightweight and easy to extend
+- 
 
 ## Setup
+```bash
 npm install
 npm start
+```
 
 
-Visit:
+### Visit:
 http://localhost:3000
 
 
  ## Tech Stack
 
 Node.js, Express.js, Socket.io
-
-Socket.io
-
 HTML, CSS, JavaScript
+
+
+Lightweight and easy to extend

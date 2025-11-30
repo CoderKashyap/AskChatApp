@@ -7,10 +7,11 @@ Users can join a room and chat together in real time.
 
 - Real-time messaging (Socket.io)
 - Join chat room
-- 
+
 
 ## Setup
 ```bash
+git clone https://github.com/CoderKashyap/AskChatApp.git
 npm install
 npm start
 ```
